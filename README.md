@@ -1,1 +1,1 @@
-React website following Preda A starter guide
+React website following Preda A's starter guide
